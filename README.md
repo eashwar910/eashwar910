@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on an All-In-One Farmer Utility App called Farmer Buddy. <br>I am looking to collaborate with an Ag-Tech Company over Summer 2026 as an Intern. <br>I am currently learning Cloud Deployment. 
+A year 2 Computer Science with AI student with core interest in Ag-Tech, Image Processing, Sattelite Imager based AI solutions.
 
 
 ## 🌐 Socials:
