@@ -1,5 +1,5 @@
 # 💫 About Me:
-A year 2 Computer Science with AI student with core interest in Ag-Tech, Image Processing, Sattelite Imager based AI solutions.
+A year 2 Computer Science with AI student with core interest in Ag-Tech, Image Processing, Sattelite Imagery based AI solutions.
 
 
 ## 🌐 Socials:
