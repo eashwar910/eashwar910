@@ -1,0 +1,16 @@
+╭──────────────────────────────────────────────────────────────────────────╮
+│  BAND           INSTRUMENTS                                              │
+├──────────────────────────────────────────────────────────────────────────┤
+│  LANGUAGES      python · c · java · typescript · javascript · php        │
+│                                                                          │
+│  IMAGERY / ML   pytorch · tensorflow · keras · opencv · scikit-learn ·   │
+│                 numpy · pandas · matplotlib                              │
+│                                                                          │
+│  INTERFACES     react native · expo · tailwind · node.js · javafx ·      │
+│                 html5 · css3                                             │
+│                                                                          │
+│  DATA + CLOUD   postgres · supabase · firebase · google cloud ·          │
+│                 digitalocean · vercel · netlify                          │
+│                                                                          │
+│  WORKBENCH      git · github actions · npm · anaconda                    │
+╰──────────────────────────────────────────────────────────────────────────╯
